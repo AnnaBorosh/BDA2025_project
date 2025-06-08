@@ -24,3 +24,5 @@ The model is available here: https://drive.google.com/drive/folders/19qKtlwidhl-
 Download the model and unzip it to the same folder with app.py.
 
 Run the application in terminal, using command python3 app.py
+
+The textbox will show no text at first, but if you press Next button several times, it start showing the posts via Mastodon API.
